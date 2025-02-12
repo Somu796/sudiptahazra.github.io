@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "4rem"
+  spacing: "2.5rem"
 
 sections:
   - block: resume-biography-3
@@ -27,35 +27,35 @@ sections:
           size: cover
           position: center
           parallax: false
-  
+
   - block: markdown
     content:
-      title: '📚 My Research'
-      subtitle: ''
+      title: "📚 My Research"
+      subtitle: ""
       text: |
         I am passionate about developing sensor-based, statistical, and cloud-hosted web app solutions for Food and Biological Sciences. I also enjoy helping and discussing statistics and programming (Python and R). My long-term goal is to establish a research NGO focused on food technology and statistics to support marginal farmers.  
-        
+
         I am building open-source low cost web-apps for Bio-stactistics and Chemometrics. Please reach out to collaborate 😃
     design:
-      columns: '1'
-  
+      columns: "1"
+
   - block: resume-experience
     content:
       title: Experience & Education
       username: admin
     design:
-      date_format: 'January 2006'
+      date_format: "January 2006"
       is_education_first: false
-      columns: '1'
-      
+      columns: "1"
+
   - block: resume-skills
     content:
       title: Skills & Hobbies
       username: admin
     design:
       show_skill_percentage: false
-      columns: '1'
-      
+      columns: "1"
+
   - block: collection
     id: papers
     content:
@@ -87,7 +87,7 @@ sections:
     design:
       view: article-grid
       columns: 3
-      
+
   - block: collection
     content:
       title: Projects
@@ -97,8 +97,7 @@ sections:
     design:
       view: article-grid
       columns: 3
-      
-      
+
   # - block: collection
   #   id: news
   #   content:
@@ -138,7 +137,7 @@ sections:
         <a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">Star</a>
 
         Easily build anything with blocks - no-code required!
-        
+
         From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
       button:
         text: Get Started
