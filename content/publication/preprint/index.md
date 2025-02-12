@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "Characterization of phytochemicals, minerals and in vitro medicinal activities of bael (Aeglemarmelos L.) pulp and differently dried edible leathers"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+date: "2020-10-07T00:00:00Z"
+doi: "10.1016/j.heliyon.2020.e05382"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-10-07T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -14,35 +14,36 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*Heliyon 6(10)* e05382"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: '*Aegle marmelos* (L.) is a seasonal fruit that contains significant amounts of bioactives like, phenolic acids (gallic acids, 2,3-dihydroxy benzoic acid, chlorogenic acid, p-coumaric acid, vanillic acid), flavonoid (rutin), organic acids (oxalic acid, tartaric acid, malic acid, lactic acid, acetic acid, citric acid, propionic acid, succinic acid, fumaric acid), vitamin C, vitamin B group (thiamine, niacin, pyridoxine, pantothenic acid, biotin, cobalamins, riboflavin), tocopherols (α-tocopherol, β-tocopherol, γ-tocopherol, δ-tocopherol), carotenes (α-carotene, β-carotene, γ-carotene, δ-carotene) and also rich in essential minerals (potassium, calcium, phosphorus, sodium, iron, copper, manganese). This study provides a comprehensive composition analysis (determined using RP-HPLC and Energy Dispersive X-Ray Fluorescence (EDXRF) Spectroscopy). *In vitro* medicinal activities (antioxidant activity, anti-inflammatory activity, anti-diabetic activity) are quantified for different bael samples. The study also investigates the changes of these bioactive components with freeze, sun, hot air, and microwave drying. The study gives a proper vision to preserve the nutraceutically rich pulp by converting it into fruit leather.'
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Aegle marmelos (bael) is rich in bioactives, vitamins, and essential minerals, with medicinal activities such as antioxidant, anti-inflammatory, and anti-diabetic effects. This study analyzes bioactive composition, drying effects, and preservation strategies to develop nutraceutically rich fruit leather.
 
 tags:
-- Large Language Models
+- Food Science
 
-featured: true
+featured: false
 
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0308814623014607
+# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''#'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
 
@@ -51,21 +52,13 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+# projects:
+# - internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
-
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
