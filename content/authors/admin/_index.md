@@ -49,10 +49,11 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - Food Science Data Analysis
-  - Bio-statistics
-  - Chemometrics
-  - Statistical Learning
+  - Machine & statistical Learning
+  - Statistical methods
+  - Multivariate data analysis
+  - Chemometrics & omics data analysis
+  - tools and frameworks required for building both back-end and front-end solutions (R, Python, JavaScript, React.js, Shiny)
 
 education:
   - area: MRes Food Science and Technology
@@ -217,4 +218,4 @@ awards:
 
 ## About Me
 
-I am Sudipta, a Walsh Research Master’s student at the University College Cork and Teagasc, Ireland. I am very passionate about building statistical solutions for the Food, Chemical, and Biological Sciences. At present, I am collaboratively building [limmaGenie](https://limma-bot-cravd3dyaqhkegf8.eastus-01.azurewebsites.net/), a [RAG](https://www.google.com/search?q=RAG&rlz=1C1GCEB_enIE1119IE1119&oq=RAG&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGD0yBggDEEUYPTIGCAQQRRg90gEIMTAwM2owajGoAgCwAgA&sourceid=chrome&ie=UTF-8) based chatbot to help omics researchers in limma modelling.
+I am Sudipta, a Walsh Research Master’s student at the University College Cork and Teagasc, Ireland. I am very passionate about building statistical solutions for the Food, Chemical, and Biological Sciences. At present, I am co-developing [limmaGenie](https://limma-bot-cravd3dyaqhkegf8.eastus-01.azurewebsites.net/), a [RAG](https://www.google.com/search?q=RAG&rlz=1C1GCEB_enIE1119IE1119&oq=RAG&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGD0yBggDEEUYPTIGCAQQRRg90gEIMTAwM2owajGoAgCwAgA&sourceid=chrome&ie=UTF-8) based chatbot to help omics researchers in limma modelling.
