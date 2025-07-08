@@ -33,9 +33,11 @@ sections:
       title: "📚 My Research"
       subtitle: ""
       text: |
-        I am passionate about developing sensor-based, statistical, and cloud-hosted web app solutions for Food and Biological Sciences. I also enjoy helping and discussing statistics and programming (Python and R). My long-term goal is to establish a research NGO focused on food technology and statistics to support marginal farmers.  
+        I develop data-driven, cloud-hosted web applications and statistical tools tailored for the Food, Biological, and Pharmaceutical Sciences. I enjoy collaborating on projects that combine advanced statistics, machine learning, and programming (Python & R) to solve real-world problems.
 
-        I am building open-source low cost web-apps for Bio-stactistics and Chemometrics. Please reach out to collaborate 😃
+        My long-term vision is to establish a research NGO that leverages data science and food technology to support sustainable agriculture and marginal farmers.
+
+        I also create open-source, cost-effective web apps for statistics and chemometrics. feel free to reach out if you’re interested in collaboration! 😃
     design:
       columns: "1"
 
