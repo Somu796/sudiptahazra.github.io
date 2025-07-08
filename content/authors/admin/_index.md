@@ -52,7 +52,7 @@ interests:
   - Machine & Statistical Learning
   - Multivariate Data Analysis
   - Chemometrics & Omics Data Analysis
-  - Tech Stack: Python, R, JavaScript, React.js, Shiny, SQL/MongoDB, Git, Azure, LangChain, Docker
+  - Tech Stack Python, R, JavaScript, React.js, Shiny, SQL/MongoDB, Git, Azure, LangChain, Docker
 
 education:
   - area: MRes Food Science and Technology
