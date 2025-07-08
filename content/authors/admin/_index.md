@@ -64,7 +64,7 @@ education:
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: PGD Statitical Methods and Analytics
+  - area: PGD Statistical Methods and Analytics
     institution: Indian Statistical Institute
     date_start: 2021-08-01
     date_end: 2022-07-30
